@@ -1,2 +1,2 @@
-# cic.github.io
-The website for the Coalition of Invisible Colleges, located at invisible.college
+# spectacle.agency
+The website for the The Spectacle Agency, located at spectacle.agency
