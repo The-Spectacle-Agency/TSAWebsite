@@ -16,12 +16,13 @@
 title: The Spectacle Agency
 
 description: > # this means to ignore newlines until "baseurl:"
-  The Coalition of Invisible Colleges (CIC) is a network of alliances formed
-  between several contemporary activist communities.
-  This website serves as an index of the various communities and their projects.
-  If you would like to connect your organization with the CIC and add your listing
-  to this website, please contact us via Telegram, or see the Documentation page for
-  more detailed information.
+  The Spectacle Agency is a cooperative organization dedicated to connecting 
+  all of the most critical projects and activists together. We intend to clearly 
+  justify the work that needs to be done in mobilizing an effective response to 
+  the problems which now confront humanity on a global scale. This website serves 
+  as a concentration point for the finest organizations, projects, and people who 
+  are currently engaged in this historic effort, so that they may be better served 
+  in their service to humanity.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
