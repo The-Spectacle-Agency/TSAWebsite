@@ -1,7 +1,7 @@
 ---
 title: Anders Aamodt
 permalink: /people/aaamodt
-person: aaamodt
+associate: aaamodt
 ---
 
 Anders' Profile
