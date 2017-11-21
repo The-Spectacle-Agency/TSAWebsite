@@ -8,6 +8,7 @@ menutext: People
 
 
 Here is a current list of agents:
+{% assign people = site.people | sort: 'title' %} {% for agent in site.people %}* [{{ agent.title }}]({{ agent.permalink }}) {% endfor %}
 
 * Brian Vereschagin
 * Zhenya Slabkovski
