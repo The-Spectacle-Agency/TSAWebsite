@@ -16,7 +16,7 @@ Here is a current list of agents:
 
 Here is a current list of unaffiliated associates:
 
-{% assign people = site.people | sort: 'title' %} {% for associate in site.people %}* [{{ associate.title }}]({{ associate.permalink }}) {% endfor %}
+{% assign associates = site.asociates | sort: 'title' %} {% for person in site.associates %}* [{{ person.title }}]({{ person.permalink }}) {% endfor %}
 
 * Anders Aamodt
 * Apocalpse Fatigue
