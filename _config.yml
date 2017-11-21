@@ -43,24 +43,23 @@ exclude:
   - Gemfile.lock
 
 collections:
-  listings:
-    output: false
-  colleges:
+  people:
     output: true
-  guilds:
+  projects:
+    output: true
+  orgs:
     output: true
 
 defaults:
   - scope:
-      type: listings
+      type: people
     values:
-      layout: listing
+      layout: page
   - scope:
-      type: colleges
+      type: projects
     values:
-      layout: college
-      groupword: " Guild"
+      layout: page
   - scope:
-      type: guilds
+      type: orgs
     values:
-      layout: guild
+      layout: page
