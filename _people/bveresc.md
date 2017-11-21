@@ -1,7 +1,7 @@
 ---
 title: Brian Vereschagin	
 permalink: /people/papersheepdog
-agent: bveresc
+person: bveresc
 ---
 
 Brian's Profile
