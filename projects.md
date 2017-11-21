@@ -6,6 +6,7 @@ menu: true
 menutext: Projects
 ---
 
+{% for project in site.projects %}* [{{ project.title }}]({{ project.permalink }}) {% endfor %}
 
 Here is a current list of projects:
 
