@@ -45,6 +45,8 @@ exclude:
 collections:
   people:
     output: true
+  associates:
+    output: true
   projects:
     output: true
   orgs:
@@ -53,6 +55,10 @@ collections:
 defaults:
   - scope:
       type: people
+    values:
+      layout: page
+  - scope:
+      type: associates
     values:
       layout: page
   - scope:
