@@ -6,7 +6,7 @@ priority: 5
 ---
 
 
-**The Human Memone Project**
+**Project Profile**
 
 Dependencies: 
 
