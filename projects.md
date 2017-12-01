@@ -8,7 +8,7 @@ menutext: Projects
 
 Here is a current list of projects:
 
-{% assign projects = site.projects | sort: 'priority' %} {% for project in site.projects %}* [{{ project.title }}]({{ project.permalink }}) 
+{% assign projects = site.projects | sort: 'priority' %} {% for project in projects %}* [{{ project.title }}]({{ project.permalink }}) 
 {% endfor %}
 
 
