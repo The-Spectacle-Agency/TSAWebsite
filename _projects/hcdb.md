@@ -2,7 +2,7 @@
 title: Holoculture Database Project	
 permalink: /projects/HCDB
 project: hcdb
-priority: 3
+priority: 4
 ---
 
 The Holoculture Database Project
