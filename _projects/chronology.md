@@ -2,7 +2,7 @@
 title: Chronology of Spectacular Culture
 permalink: /projects/chronology
 project: chronology
-priority: 2
+priority: 3
 ---
 
 Chronology of Spectacular Culture
