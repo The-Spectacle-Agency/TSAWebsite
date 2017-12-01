@@ -1,9 +1,9 @@
 ---
-title: Ceptr
+title: The MetaCurrency Project (Ceptr/Holochain)
 permalink: /orgs/ceptr
 org: ceptr
 ---
 
-Ceptr
+The MetaCurrency Project (Ceptr/Holochain)
 
 Org Profile
