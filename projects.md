@@ -6,7 +6,8 @@ menu: true
 menutext: Projects
 ---
 
-{% assign projects = site.projects | sort: 'title' %} {% for project in site.projects %}* [{{ project.title }}]({{ project.permalink }}) {% endfor %}
+{% assign projects = site.projects | sort: 'title' %} {% for project in site.projects %}* [{{ project.title }}]({{ project.permalink }}) 
+{% endfor %}
 
 Here is a current list of projects:
 
