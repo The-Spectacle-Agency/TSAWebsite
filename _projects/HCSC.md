@@ -5,7 +5,7 @@ project: hcsc
 priority: 5
 ---
 
-**The Holoculture Superconductor**
+**Project Profile**
 
 Dependencies: 
 
