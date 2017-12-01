@@ -2,7 +2,7 @@
 title: The Memetics Standard Model
 permalink: /projects/memetics
 project: memetics
-priority: 2
+priority: 1
 ---
 
 The Memetics Standard Model
