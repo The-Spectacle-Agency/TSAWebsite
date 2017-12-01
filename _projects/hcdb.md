@@ -38,10 +38,8 @@ This is a core component of the global holomemetic nervous system which is set t
 
 Related Links:
 
-http://www.jfsowa.com/cg/cgexampw.htm
-
-https://www.slideshare.net/jackpark/lbd-tm2
-
-https://www.researchgate.net/publication/225070304_The_TAO_of_topic_maps
+ * [http://www.jfsowa.com/cg/cgexampw.htm](http://www.jfsowa.com/cg/cgexampw.htm)
+ * [https://www.slideshare.net/jackpark/lbd-tm2](https://www.slideshare.net/jackpark/lbd-tm2)
+ * [https://www.researchgate.net/publication/225070304_The_TAO_of_topic_maps](https://www.researchgate.net/publication/225070304_The_TAO_of_topic_maps)
 
 Unsorted Notes and Details:
